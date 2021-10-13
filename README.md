@@ -11,7 +11,9 @@ Alter the prompt within interact.py and run the code as many times as you wish.
 Generate interesting permutations and harvest ideas.
 
 Get unblocked. 
-
+.
+.
+.
 
 *OpenAI API key required*
 
