@@ -1,6 +1,6 @@
 # Writer_unblock
 
-Command line interfacing with GPT-3.
+Straight-forward command line interfacing with GPT-3.
 
 Finding yourself stuck at a conceptual stage?
 
