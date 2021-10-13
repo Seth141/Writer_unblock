@@ -4,9 +4,11 @@ Command line interfacing with GPT-3.
 
 Finding yourself stuck at a conceptual stage?
 
+Spinning your wheels needlessly on a segment of text and staring into a cyclic void? 
+
 Alter the prompt within interact.py and run the code as many times as you wish.
 
-Generate interestign permutations and harvest ideas.
+Generate interesting permutations and harvest ideas.
 
 Get unblocked. 
 
