@@ -13,6 +13,7 @@ Generate interesting permutations and harvest ideas.
 Get unblocked. 
 
 *OpenAI API key required*
+
 **Demo Vid:**
 
 
